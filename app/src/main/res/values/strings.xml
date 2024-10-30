@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ej4Repaso</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="radio_r">Radio (r)</string>
+    <string name="generatriz_g">Generatriz (g)</string>
+    <string name="altura_h">Altura (h)</string>
+    <string name="area_base">Área de la base (A)</string>
+    <string name="lado_l">Lado (L)</string>
+    <string name="perimetro_base">Perímetro de la base (P)</string>
+    <string name="apotema_ap">Apotema (ap)</string>
+    <string name="calcular_area">Calcular Área</string>
+    <string name="calcular_volumen">Calcular Volumen</string>
+</resources>
